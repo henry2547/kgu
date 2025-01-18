@@ -1,0 +1,5 @@
+# kgu- about this project
+The golfer will be able to register via the app and their details stored in the database that can be approved by the admin and up on registration, they will be notified that they have been accepted to the union.
+There will be tutorials on how to play the golf game hence the golfers will be able to make correct scores and penalties. The videos will provide the golfer with every skill they might want as from beginner to expert. There will also be able to familiarize themselves with the golf’s keywords that are used in the game since there will be a dictionary module to do that.
+Financial manager will be able to collect all the finances made either during registration or the contribution made.
+Golfers can then connect with each other, organize playing groups, and even participate in tournaments together. This can help golfers build a community of like-minded individuals who share a passion for the game. A mobile application can provide a platform for golfers to receive and share tips, advice, and strategies for improving their golf game. This can help golfers learn from each other and improving their skills.
